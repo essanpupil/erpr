@@ -9,6 +9,10 @@ ERP Solution for small and medium business
 1. Order stock based on production plan.
 1. Set reminder to order stock before passing quantity threshold.
 
+## Features
+1. CRUD for materials.
+1. CRUD for products and its required materials.
+
 ## Technical Implementation
 ### Requirements
 1. Django 3.2.7
